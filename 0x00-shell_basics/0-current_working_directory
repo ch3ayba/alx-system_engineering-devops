@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod u+x get_current_directory.sh\n
+current_directory=$(pwd)
+echo "Current working directory: $curent_directory"\n
