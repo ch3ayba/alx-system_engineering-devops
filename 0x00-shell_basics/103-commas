@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ampXU --format=comma
+ls -avp --format=comma
