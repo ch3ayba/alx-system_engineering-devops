@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x get_current_directory.sh\n
+chmod u+x get_current_directory.sh\n
