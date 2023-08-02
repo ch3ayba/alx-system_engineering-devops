@@ -1,2 +1,2 @@
 #!/bin/bash
-realpath -s
+echo "Absolute path: $abs_path"
