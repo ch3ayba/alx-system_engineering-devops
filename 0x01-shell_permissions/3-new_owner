@@ -1,2 +1,2 @@
 #!/bin/bash
-su -l hello betty\n
+chown hello betty\n
