@@ -1,2 +1,2 @@
 #!/bin/bash
-su -p hello betty\n
+su -l hello betty\n
