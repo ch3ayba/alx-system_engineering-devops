@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.gif" -exec du -b {} + |sort -n -k1 | cut -f2-
+find . -type f -name "*.gif" -exec du -b {} + | sort -n -k1 | cut -f2-
