@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A' +'25' | tr 'c' +'3'
+tr 'A' +'Z' | tr 'c' 'e'
